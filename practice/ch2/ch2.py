@@ -12,3 +12,4 @@ f=int(b) # type conversion
 print(f)
 
 p= int(input("enter a number")) # input function takes  input as a string we need to convert that into int to perform arithmetic opration
+  
